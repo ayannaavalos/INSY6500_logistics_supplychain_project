@@ -1,1 +1,1 @@
-# INSY6500_logistics_supplychain_project
+# INSY6500 logistics supplychain project
