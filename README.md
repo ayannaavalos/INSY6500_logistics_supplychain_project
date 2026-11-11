@@ -8,9 +8,10 @@
 ### Data Processing
 [here]
 
-### Project structure
-project/
-│
+## Project Structure
+
+```text
+.
 ├── data/
 │   ├── raw/
 │   │   └── logistics_supply_chain.csv
@@ -24,6 +25,7 @@ project/
 │   └── 03_exploratory_analysis.ipynb
 │
 └── README.md
+```
 
 ### Results and Findings
 [text]
